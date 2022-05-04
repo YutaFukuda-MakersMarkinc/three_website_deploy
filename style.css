@@ -9,6 +9,8 @@
 body {
   color: white;
   overflow-x: hidden;
+  background: url("./bg/bg.jpg") no-repeat;
+  background-size: contain;
 }
 
 canvas {
